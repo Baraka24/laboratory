@@ -1,0 +1,15 @@
+
+  .badge {
+  background-color: #04AA6D;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+.badgeS {
+  background-color: #f44336;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
